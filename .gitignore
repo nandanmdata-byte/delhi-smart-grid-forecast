@@ -1,0 +1,15 @@
+# Data & Models
+data/raw/
+data/interim/
+data/processed/
+models/*.joblib
+
+# Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Environment & IDE
+.env
+.vscode/

@@ -1,0 +1,13 @@
+# Data Manipulation & API Ingestion
+matplotlib
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# Traditional Machine Learning & Optimization Pipeline
+scikit-learn>=1.3.0
+lightgbm>=4.0.0
+xgboost>=2.0.0
+
+# Interactive Frontend Dashboard Web Application
+streamlit>=1.30.0
